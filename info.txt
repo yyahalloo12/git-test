@@ -1,2 +1,2 @@
 Name: Copter
-Gender: Male
+Sex: Male
